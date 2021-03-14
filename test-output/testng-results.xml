@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21384" started-at="2021-03-14T13:27:02Z" finished-at="2021-03-14T13:27:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21384" started-at="2021-03-14T13:27:02Z" finished-at="2021-03-14T13:27:24Z">
+      <class name="com.pearson.testscript.Test1">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.pearson.testscript.Test1@6d4b1c02]" name="configBC" is-config="true" duration-ms="8902" started-at="2021-03-14T13:27:02Z" finished-at="2021-03-14T13:27:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="testblock()[pri:0, instance:com.pearson.testscript.Test1@6d4b1c02]" name="testblock" duration-ms="11699" started-at="2021-03-14T13:27:11Z" finished-at="2021-03-14T13:27:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testblock -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.pearson.testscript.Test1@6d4b1c02]" name="configAC" is-config="true" duration-ms="751" started-at="2021-03-14T13:27:23Z" finished-at="2021-03-14T13:27:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.pearson.testscript.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
